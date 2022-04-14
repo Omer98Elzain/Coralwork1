@@ -7,8 +7,14 @@ background-repeat:no-repeat;
 background-size:cover;
     height: auto
 }
+@font-face
+{
+font-family="my-font";
+    url("Dancing_Script");
+}
+
 .home-name
-{font-name:Times New Roman,Times,serf:
+{
 text-shadow: 1px 1px 1px red;
 
 }
