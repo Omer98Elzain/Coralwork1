@@ -9,8 +9,8 @@ background-size:cover;
 }
 @font-face
 {
-font-family="my-font";
-   src: url("Dancing Script-variablefont_wght.ttf");
+font-family= Dancing;
+   src: url("DancingScript-VariableFont_wght.ttf");
 }
 
 .home-name
