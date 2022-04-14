@@ -7,6 +7,12 @@ background-repeat:no-repeat;
 background-size:cover;
     height: auto
 }
+.home-name
+{
+text-shadow: 1px 1px 1px red;
+
+}
+
 
 #tool{ 
   opacity: 0.5;
